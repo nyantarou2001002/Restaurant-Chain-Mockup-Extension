@@ -12,10 +12,12 @@ Restraurant Chain Mockup を拡張して、ユーザーがフォームに入力�
 
 ## 機能
 
-- レストランチェーンの情報管理
-- レストランロケーションの管理
-- 従業員情報の管理
-- 情報の HTML での出力、Markdown、 JSON、テキスト形式でのエクスポート
+入力フォームページ
+![スクリーンショット 2024-10-05 14 46 51](https://github.com/user-attachments/assets/1fb15020-2f8e-425d-a1a6-f43bb8a25c93)
+
+モックアップページ(HTMLを選択した場合)
+![スクリーンショット 2024-10-05 14 47 15](https://github.com/user-attachments/assets/26eab1a3-718a-4f19-a8a7-93171b9900d2)
+
 
 ## 使用方法
 
@@ -53,6 +55,4 @@ php -S localhost:8080
 - Minimum postal code
 - Max postal code
 - Download Format(HTML, JSON, TXT, Markdown)
-
-<img width="1392" alt="スクリーンショット 2023-11-17 22 05 10" src="https://github.com/seiichikick0404/RestaurantChainMockup/assets/69625901/b920e9f5-1c4b-4930-b734-fce65e8962f9">
 
