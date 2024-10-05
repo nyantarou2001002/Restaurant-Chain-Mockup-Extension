@@ -45,7 +45,7 @@ composer -v
 php -S localhost:8080
 ```
 
-5.以下のフォームを埋めて送信を押すと選択したファイルタイプが出力されます
+5.以下のフォームを埋めてGenerateボタンを押すと選択したファイルタイプが出力されます
 
 - number of Enployees
 - salary
